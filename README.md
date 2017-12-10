@@ -11,6 +11,7 @@ first setp: use the `pre_model.py` train the resnet on the mscelba dataset
 second step: change the path in 'main.py' and  'data_read.py' to train the De-mark GAN model in you own datasets.
 
 --
+
 ##Prerequisites
 
  - python 2.7
