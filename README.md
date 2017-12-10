@@ -12,7 +12,7 @@ second step: change the path in 'main.py' and  'data_read.py' to train the De-ma
 
 ---
 
-##Prerequisites
+## Prerequisites
 
  - python 2.7
  - pytorch 2.0
